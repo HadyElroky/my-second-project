@@ -156,7 +156,7 @@ input[type="submit"] {
     position: absolute;
     top: 100%;
     left: 0px;
-    background-color: #08141d;
+    background-color: #0000008a;
     width: 100%;
     height: fit-content;
   }
@@ -226,7 +226,7 @@ input[type="submit"] {
 }
 .landing .landing-text {
   position: absolute;
-  z-index: 3;
+  z-index: 2;
   top: 50%;
   transform: translatey(-50%);
   left: 0;
